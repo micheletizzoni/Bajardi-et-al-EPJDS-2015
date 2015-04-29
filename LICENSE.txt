@@ -1,0 +1,10 @@
+Copyright (C) 2015 Paolo Bajardi [1], Matteo Delfino [2],
+André Panisson [2], Giovanni Petri [2], Michele Tizzoni [2]
+
+[1]: Aizoon Technology Consulting, via Po 14, 10123, Torino, Italy
+[2]: ISI Foundation, via Alassio 11/C, 10126, Torino, Italy
+
+This work is licensed under a Creative Commons 4.0
+Attribution-NonCommercial-ShareAlike License
+You may obtain a copy of the License at
+http://creativecommons.org/licenses/by-nc-sa/4.0/

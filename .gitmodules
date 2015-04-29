@@ -1,0 +1,6 @@
+[submodule "Holes"]
+	path = Holes
+	url = https://github.com/lordgrilo/Holes
+[submodule "data/countries/mledoze-countries"]
+	path = data/countries/mledoze-countries
+	url = https://github.com/mledoze/countries

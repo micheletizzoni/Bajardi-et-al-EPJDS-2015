@@ -1,5 +1,5 @@
 numpy==1.22
-scipy==0.14.1
+scipy==1.11.1
 Cython==0.21.2
 ipython[all]==8.14
 joblib==1.3
